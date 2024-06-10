@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>OnlineLearning</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous">
+    <link href= "npm i bootstrap@5.3.3">
   <style>
 
   </style>
@@ -16,13 +16,10 @@
 </div>
     <p><h4>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Unde distinctio error vitae enim dolorem aliquid harum ab nam recusandae, sint suscipit exercitationem veritatis hic officia quam deleniti maxime sapiente earum. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptates cum tenetur, ipsa vitae, beatae reprehenderit dolorum repellendus illum, quis sequi voluptate. Earum fugiat distinctio libero voluptates minima quia voluptatibus nihil facilis sunt ipsam adipisci, illum assumenda? Labore distinctio recusandae ea!</p></h4>
     <p><h4>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Unde distinctio error vitae enim dolorem aliquid harum ab nam recusandae, sint suscipit exercitationem veritatis hic officia quam deleniti maxime sapiente earum. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptates cum tenetur, ipsa vitae, beatae reprehenderit dolorum repellendus illum, quis sequi voluptate. Earum fugiat distinctio libero voluptates minima quia voluptatibus nihil facilis sunt ipsam adipisci, illum assumenda? Labore distinctio recusandae ea!</p></h4>
-    <div class="row justify-content-around">
-        <div class="col-4">
-          One of two columnsLorem, ipsum dolor sit amet consectetur adipisicing elit. Unde distinctio error vitae enim dolorem aliquid harum ab nam recusandae, sint suscipit exercitationem veritatis hic officia quam deleniti maxime sapiente earum
-        </div>
-        <div class="col-4">
-          One of two columns 
-        </div>
-      </div>
+    <div class="grid text-center">
+  <div class="g-col-6">.g-col-6</div>
+  <div class="g-col-6">.g-col-6</div>
+</div>
+    
 </body>
 </html>
