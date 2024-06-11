@@ -6,7 +6,8 @@
 </h4><br>
 
 <img style="display: block; margin: 0 auto;"  src="https://github.com/vanshikashar/vanshikashar/blob/main/Coding%20pic.jpg?raw=true" height= "200" width= "1000">
-<img style="display: block; margin: 0 auto;"  src="https://github.com/vanshikashar/vanshikashar/blob/main/Coding%20pic.jpg?raw=true" height= "100" width= "100">
+<img style="display: block; margin: 0 auto;"  src="https://github.com/vanshikashar/vanshikashar/blob/main/student%20review.jpg?raw=true" height= "150" align= "right" width= "300">
 <h4 align= "left">Contact Number:</h4>
 <h4 align= "left">Gmail ID:</h4>
-<h4 align= "left">Instagram:</h4>
+<h4 align= "left">Instagram:</h4><br>
+<h5 align= "right">Student Review</h5>
