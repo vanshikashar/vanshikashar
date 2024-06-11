@@ -1,4 +1,4 @@
-<img style="display: block; margin: 0 auto;"  src="https://github.com/vanshikashar/vanshikashar/blob/main/online-education-bright-banner-vector.jpg" height= "100" width= "500">
+<img style="display: block; margin: 0 auto;"  src="https://github.com/vanshikashar/vanshikashar/blob/main/online-education-bright-banner-vector.jpg" height= "200" width= "1000">
 <h1 align="center">Hi 👋, I'm Uday Sharma</h1>
 <h3 align="center">Coforge Software Engineer, MBA, 2 years AWS, AZ900 certifications. Passionate tech blogger, mentor. Enhanced AWS project, 25% user retention. Expert in cloud, Python,Kubernetes,Terraform,Jenkins.</h3>
 
