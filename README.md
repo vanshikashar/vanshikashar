@@ -1,4 +1,4 @@
-<img style="display: block; margin: 0 auto;"  src="https://github.com/udayyysharmaa/udayyysharmaa/blob/main/Uday%20Sharma.gif">
+<img style="display: block; margin: 0 auto;"  src="D:\Google download pics\online-education-bright-banner-vector.jpg">
 <h1 align="center">Hi 👋, I'm Uday Sharma</h1>
 <h3 align="center">Coforge Software Engineer, MBA, 2 years AWS, AZ900 certifications. Passionate tech blogger, mentor. Enhanced AWS project, 25% user retention. Expert in cloud, Python,Kubernetes,Terraform,Jenkins.</h3>
 
