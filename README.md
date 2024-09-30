@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
- <img style="display: block; margin: 0 auto;" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
+ <img style="display: block; margin: 0 auto;" src="[https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif](https://iconscout.com/lottie-animation/female-full-stack-developer-8238218)">
 </p>
 
 <h1 align="center">Hi 👋, I'm Vanshika Sharma</h1>
@@ -18,8 +18,8 @@
 - 🔭 I’m currently working on **AWS, Full-Stack Development Projects**
 - 🌱 I’m currently learning **AWS**
 - 💬 Ask me about **Programming**
-- 📫 How to reach me *+91 7428138382 *
-- ⚡ Fun fact: **Sleepy Person **
+- 📫 How to reach me *+91 7428138382*
+- ⚡ Fun fact: **Sleepy Person**
 
 ---
 
