@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
- <img style="display: block; margin: 0 auto;" src="[https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif](https://iconscout.com/lottie-animation/female-full-stack-developer-8238218)">
+ <img style="display: block; margin: 0 auto;" src="https://github.com/vanshikashar/vanshikashar/blob/master/vanshika%20Sharma.gif">
 </p>
 
 <h1 align="center">Hi 👋, I'm Vanshika Sharma</h1>
