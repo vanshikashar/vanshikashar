@@ -1,60 +1,285 @@
-<!-- Header -->
-<p align="center">
- <img style="display: block; margin: 0 auto;" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmM0bzJrNjNldHdna21rNG54amh0OWpmN3Bta3A0bDZybmxwOHR1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.webp">
+<!-- ======================= HEADER ======================= -->
+
+<div align="center">
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmM0bzJrNjNldHdna21rNG54amh0OWpmN3Bta3A0bDZybmxwOHR1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.webp" width="100%" />
+
+<br>
+
+# 👋 Hey, I'm **Vanshika Sharma**
+
+### 💻 B.Tech Data Science Student | Developer | Cloud & AI Enthusiast
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=vanshikashar&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/vanshikashar?label=Followers&style=for-the-badge&color=blue" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Vanshika Sharma</h1>
-<h3 align="center">I.T.S Engineering College Student, B.Tech (DATA SCIENCE) 2023-27. Programming Adept, C, Java, Python, HTML CSS, Web Development, AWS Cloud.</h3>
+<p>
+  <a href="https://www.linkedin.com/in/vanshika-sharma-b11658279/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:vanshikapandit02911@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```yaml
+name: Vanshika Sharma
+education: B.Tech in Data Science
+college: I.T.S Engineering College
+graduation: 2027
+
+interests:
+  - Data Science
+  - Artificial Intelligence
+  - Machine Learning
+  - Full-Stack Development
+  - Cloud Computing
+
+currently_learning:
+  - AWS
+  - Machine Learning
+  - Data Analytics
+  - Modern Web Technologies
+
+goal: "Build intelligent, scalable and impactful software solutions 🚀"
+```
+
+I'm a **B.Tech Data Science student** passionate about turning ideas into real-world technology.
+
+I enjoy working across **software development, data science, artificial intelligence, and cloud computing**. I have experience building web applications and software projects using Python, Java, C, JavaScript, React, Node.js and Express.
+
+I'm currently expanding my knowledge of **AWS, Machine Learning, Data Analytics and AI**, while continuously improving my problem-solving and development skills.
+
+> 💡 **I believe in learning by building.**
+
+---
+
+## 🚀 What I Do
+
+<table>
+<tr>
+<td width="50%">
+
+### 📊 Data Science & AI
+
+* 🐍 Python for data analysis
+* 🤖 Machine Learning
+* 📈 Data visualization
+* 🧠 AI concepts
+* 🔍 Exploratory Data Analysis
+* 📚 Continuously learning ML/AI
+
+</td>
+
+<td width="50%">
+
+### 🌐 Full-Stack Development
+
+* ⚛️ React
+* 🟢 Node.js
+* 🚂 Express.js
+* 🌐 HTML & CSS
+* 🟨 JavaScript
+* 🔗 REST APIs
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ☁️ Cloud & DevOps
+
+* ☁️ AWS
+* 🐧 Linux
+* 🐳 Docker
+* 🔧 Git & GitHub
+* 🏗️ Terraform
+* 🚀 Deployment & Cloud Infrastructure
+
+</td>
+
+<td width="50%">
+
+### 💻 Programming
+
+* 🐍 Python
+* ☕ Java
+* 🔵 C
+* 🟨 JavaScript
+* 🧩 Data Structures & Algorithms
+* 🛠️ Problem Solving
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+### 👩‍💻 Programming Languages
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vanshika-sharma-b11658279/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="linkedin" /></a>
-  <a href="mailto:vanshikapandit02911@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="email" /></a>
+
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript" />
+
+</p>
+
+### 🌐 Web Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" />
+
+</p>
+
+### ☁️ Cloud, Tools & Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,terraform,git,github,linux,vscode" />
 
 </p>
 
 ---
 
-<!-- Introduction -->
-<p>I am studying for a Bachelor of Technology (B.Tech) in Computer Science focusing on Data Science. I have strong skills in programming languages such as Python, Java, C, and JavaScript, and I have used them to create various software and web projects.<br>I am particularly interested in full-stack web development and have experience working with frameworks like React, Node.js, and Express to build dynamic and responsive applications. In addition to web development, I am also learning about cloud computing, specifically with AWS services, to understand scalable and secure cloud-based solutions.
- <br>
-I am always learning and keeping up with new technologies, intending to become proficient in modern data science, artificial intelligence, and machine learning tools and techniques.</p>
----
+## 📊 GitHub Statistics
 
-### 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanshikashar&show_icons=true&theme=radical" alt="vanshikashar" />
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vanshikashar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
----
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshikashar&theme=tokyonight&hide_border=true" />
 
+</div>
 
+<br>
 
----
+<div align="center">
 
-### 🖥️ Languages & Tools
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshikashar&layout=compact&theme=tokyonight&hide_border=true" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python" alt="Python" />
-  <img src="https://img.shields.io/badge/Node.js-black?style=flat-square&logo=Node.js" alt="Node.js" />
-  <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=React" alt="React" />
-  <img src="https://img.shields.io/badge/C-black?style=flat-square&logo=C" alt="C" />
-  <img src="https://img.shields.io/badge/HTML%20CSS-black?style=flat-square&logo=HTML%20CSS" alt="HTML CSS" />
-</p>
+</div>
 
 ---
-<p></p>
 
-### 📫 Connect with me
+## 📈 Contribution Graph
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vanshika-sharma-b11658279/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="linkedin" /></a>
-  <a href="mailto: vanshikapandit@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="email" /></a>
-  
-</p>
+<div align="center">
 
-<!-- Footer -->
-<p align="center">
-  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="100px">
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vanshikashar&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vanshikashar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+
+</div>
+
+---
+
+## 🔥 Currently Working On
+
+<table>
+<tr>
+<td>🤖</td>
+<td><b>Artificial Intelligence</b><br>Exploring modern AI and Machine Learning concepts.</td>
+</tr>
+
+<tr>
+<td>📊</td>
+<td><b>Data Science</b><br>Learning data analysis, visualization and predictive modeling.</td>
+</tr>
+
+<tr>
+<td>🌐</td>
+<td><b>Full-Stack Development</b><br>Building responsive and scalable web applications.</td>
+</tr>
+
+<tr>
+<td>☁️</td>
+<td><b>AWS Cloud</b><br>Learning cloud infrastructure, deployment and scalable systems.</td>
+</tr>
+</table>
+
+---
+
+## 📌 Featured Skills
+
+```text
+Python          ████████████████████░
+Java            ███████████████░░░░░
+JavaScript      ████████████████░░░░
+React           ███████████████░░░░░
+Node.js         ███████████████░░░░░
+AWS             ████████████░░░░░░░░
+Data Science    ███████████████░░░░░
+Machine Learning████████████░░░░░░░░
+```
+
+---
+
+## 🎯 2026–27 Goals
+
+* 🚀 Build more production-ready projects
+* 🤖 Strengthen Machine Learning & AI skills
+* 📊 Become proficient in Data Science
+* ☁️ Improve AWS & Cloud Architecture knowledge
+* 🧩 Solve more Data Structures & Algorithms problems
+* 🌐 Build scalable full-stack applications
+* 💼 Gain industry experience
+* 🌱 Contribute to Open Source
+
+---
+
+## 💼 Let's Connect
+
+<div align="center">
+
+I'm always open to **collaboration, interesting projects, internships and learning opportunities.**
+
+<br>
+
+<a href="https://www.linkedin.com/in/vanshika-sharma-b11658279/">
+<img src="https://img.shields.io/badge/LinkedIn-Vanshika%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:vanshikapandit02911@gmail.com">
+<img src="https://img.shields.io/badge/Email-vanshikapandit02911%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 *"Code. Learn. Build. Repeat."* 🚀
+
+<br>
+
+<img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="120px">
+
+<br><br>
+
+⭐ **If you find my projects interesting, consider giving them a star!**
+
+</div>
+
+---
+
+<!-- ======================= END ======================= -->
