@@ -1,154 +1,170 @@
+
 <!-- ======================= HEADER ======================= -->
 
 <div align="center">
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmM0bzJrNjNldHdna21rNG54amh0OWpmN3Bta3A0bDZybmxwOHR1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.webp" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:4776E6&height=200&section=header&text=Vanshika%20Sharma&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Data%20Science%20%7C%20Cloud%20%26%20AI&descAlignY=60&descSize=17" width="100%" alt="Vanshika Sharma profile banner" />
 
 <br>
 
-# 👋 Hey, I'm **Vanshika Sharma**
+<h2>Hi there, I'm Vanshika Sharma 👋</h2>
 
-### 💻 B.Tech Data Science Student | Developer | Cloud & AI Enthusiast
+<h3>B.Tech Data Science Student | Developer | Cloud & AI Enthusiast</h3>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=vanshikashar&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/vanshikashar?label=Followers&style=for-the-badge&color=blue" />
+  <a href="https://github.com/vanshikashar">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+  </a>
+  <a href="https://www.linkedin.com/in/vanshika-sharma-b11658279/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:vanshikapandit02911@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/vanshika-sharma-b11658279/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:vanshikapandit02911@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=vanshikashar&label=Profile%20Views&color=6C63FF&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/vanshikashar?label=Followers&style=flat-square&color=blue" alt="GitHub followers" />
 </p>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👩‍💻 About Me
 
-```yaml
-name: Vanshika Sharma
-education: B.Tech in Data Science
-college: I.T.S Engineering College
-graduation: 2027
+I'm a Computer Science student specializing in Data Science, passionate about building practical software solutions and exploring emerging technologies.
 
-interests:
-  - Data Science
-  - Artificial Intelligence
-  - Machine Learning
-  - Full-Stack Development
-  - Cloud Computing
+- 🎓 Pursuing B.Tech in Data Science at I.T.S Engineering College.
+- 💻 Interested in software development, AI, and data-driven applications.
+- ☁️ Learning AWS, Linux, Docker, Terraform, and cloud infrastructure.
+- 📊 Exploring data analytics, visualization, and machine learning.
+- 🌐 Building web applications with modern development technologies.
+- 🌱 Continuously learning through hands-on projects and collaboration.
 
-currently_learning:
-  - AWS
-  - Machine Learning
-  - Data Analytics
-  - Modern Web Technologies
-
-goal: "Build intelligent, scalable and impactful software solutions 🚀"
-```
-
-I'm a **B.Tech Data Science student** passionate about turning ideas into real-world technology.
-
-I enjoy working across **software development, data science, artificial intelligence, and cloud computing**. I have experience building web applications and software projects using Python, Java, C, JavaScript, React, Node.js and Express.
-
-I'm currently expanding my knowledge of **AWS, Machine Learning, Data Analytics and AI**, while continuously improving my problem-solving and development skills.
-
-> 💡 **I believe in learning by building.**
+> **My philosophy:** Learn continuously, build practically, and improve with every project.
 
 ---
 
-## 🚀 What I Do
+## 🚀 Areas of Interest
 
 <table>
-<tr>
-<td width="50%">
-
-### 📊 Data Science & AI
-
-* 🐍 Python for data analysis
-* 🤖 Machine Learning
-* 📈 Data visualization
-* 🧠 AI concepts
-* 🔍 Exploratory Data Analysis
-* 📚 Continuously learning ML/AI
-
-</td>
-
-<td width="50%">
-
-### 🌐 Full-Stack Development
-
-* ⚛️ React
-* 🟢 Node.js
-* 🚂 Express.js
-* 🌐 HTML & CSS
-* 🟨 JavaScript
-* 🔗 REST APIs
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ☁️ Cloud & DevOps
-
-* ☁️ AWS
-* 🐧 Linux
-* 🐳 Docker
-* 🔧 Git & GitHub
-* 🏗️ Terraform
-* 🚀 Deployment & Cloud Infrastructure
-
-</td>
-
-<td width="50%">
-
-### 💻 Programming
-
-* 🐍 Python
-* ☕ Java
-* 🔵 C
-* 🟨 JavaScript
-* 🧩 Data Structures & Algorithms
-* 🛠️ Problem Solving
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Data Science & AI</h3>
+      <ul>
+        <li>Python and data analysis</li>
+        <li>Machine learning fundamentals</li>
+        <li>Exploratory data analysis</li>
+        <li>Data visualization</li>
+        <li>AI-powered applications</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Full-Stack Development</h3>
+      <ul>
+        <li>React and JavaScript</li>
+        <li>Node.js and Express.js</li>
+        <li>HTML and CSS</li>
+        <li>REST API development</li>
+        <li>Database integration</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☁️ Cloud & DevOps</h3>
+      <ul>
+        <li>AWS cloud services</li>
+        <li>Linux and Git</li>
+        <li>Docker and containers</li>
+        <li>Terraform and IaC</li>
+        <li>CI/CD and deployment</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💻 Programming</h3>
+      <ul>
+        <li>Python, Java, and C</li>
+        <li>JavaScript</li>
+        <li>Data structures and algorithms</li>
+        <li>Problem solving</li>
+        <li>Software development</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👩‍💻 Programming Languages
+### Programming Languages
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript" />
-
+  <img src="https://skillicons.dev/icons?i=python,java,c,js" alt="Python, Java, C, JavaScript" />
 </p>
 
-### 🌐 Web Development
+### Web Development
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" alt="HTML, CSS, React, Node.js, Express" />
 </p>
 
-### ☁️ Cloud, Tools & Technologies
+### Cloud, DevOps & Tools
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,docker,terraform,git,github,linux,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=aws,docker,terraform,linux,git,github,vscode" alt="AWS, Docker, Terraform, Linux, Git, GitHub, VS Code" />
 </p>
+
+### Databases & Data Science
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,python" alt="MySQL, MongoDB, Python" />
+</p>
+
+---
+
+## 💡 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 AURA — Well-being Monitoring</h3>
+      <p>A privacy-focused well-being monitoring project exploring webcam-based eye health, screen distance, and emotion or stress analysis.</p>
+      <p><strong>Technologies:</strong> Python, OpenCV, MediaPipe, TensorFlow</p>
+      <a href="https://github.com/vanshikashar/aura-project">
+        <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" alt="View AURA project" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>☸️ DevOps Project</h3>
+      <p>A Java web application project focused on containerization and Kubernetes-based orchestration.</p>
+      <p><strong>Technologies:</strong> Java, Docker, Kubernetes, DevOps</p>
+      <a href="https://github.com/vanshikashar/DevOps_Project">
+        <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" alt="View DevOps project" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 JavaScript Projects</h3>
+      <p>A collection of JavaScript practice and development projects.</p>
+      <p><strong>Technologies:</strong> HTML, CSS, JavaScript</p>
+      <a href="https://github.com/vanshikashar/JavaScript_Projects">
+        <img src="https://img.shields.io/badge/View%20Projects-181717?style=for-the-badge&logo=github" alt="View JavaScript projects" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔎 Explore My Repositories</h3>
+      <p>Discover my other experiments, learning projects, and development work on GitHub.</p>
+      <a href="https://github.com/vanshikashar?tab=repositories">
+        <img src="https://img.shields.io/badge/All%20Repositories-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -156,17 +172,19 @@ I'm currently expanding my knowledge of **AWS, Machine Learning, Data Analytics 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vanshikashar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<a href="https://github.com/vanshikashar">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vanshikashar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+</a>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshikashar&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/vanshikashar">
+  <img height="180" src="https://streak-stats.demolab.com?user=vanshikashar&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</a>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshikashar&layout=compact&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/vanshikashar">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshikashar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages" />
+</a>
 
 </div>
 
@@ -176,7 +194,7 @@ I'm currently expanding my knowledge of **AWS, Machine Learning, Data Analytics 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vanshikashar&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+[![Vanshika's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vanshikashar&theme=tokyo-night&hide_border=true&area=true)](https://github.com/vanshikashar)
 
 </div>
 
@@ -186,100 +204,84 @@ I'm currently expanding my knowledge of **AWS, Machine Learning, Data Analytics 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=vanshikashar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vanshikashar&theme=tokyonight&no-frame=true&margin-w=8&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 🔥 Currently Working On
+## 🔥 Currently Learning & Building
 
 <table>
-<tr>
-<td>🤖</td>
-<td><b>Artificial Intelligence</b><br>Exploring modern AI and Machine Learning concepts.</td>
-</tr>
-
-<tr>
-<td>📊</td>
-<td><b>Data Science</b><br>Learning data analysis, visualization and predictive modeling.</td>
-</tr>
-
-<tr>
-<td>🌐</td>
-<td><b>Full-Stack Development</b><br>Building responsive and scalable web applications.</td>
-</tr>
-
-<tr>
-<td>☁️</td>
-<td><b>AWS Cloud</b><br>Learning cloud infrastructure, deployment and scalable systems.</td>
-</tr>
+  <tr>
+    <td align="center" width="60">🤖</td>
+    <td>
+      <strong>Artificial Intelligence & Machine Learning</strong><br>
+      Exploring machine learning concepts and practical AI applications.
+    </td>
+  </tr>
+  <tr>
+    <td align="center">📊</td>
+    <td>
+      <strong>Data Science & Analytics</strong><br>
+      Practicing data analysis, visualization, and predictive modeling.
+    </td>
+  </tr>
+  <tr>
+    <td align="center">🌐</td>
+    <td>
+      <strong>Full-Stack Development</strong><br>
+      Developing responsive web applications and learning backend integration.
+    </td>
+  </tr>
+  <tr>
+    <td align="center">☁️</td>
+    <td>
+      <strong>AWS & DevOps</strong><br>
+      Practicing cloud infrastructure, containerization, automation, and deployment.
+    </td>
+  </tr>
 </table>
 
 ---
 
-## 📌 Featured Skills
+## 🎯 My Goals for 2026–2027
 
-```text
-Python          ████████████████████░
-Java            ███████████████░░░░░
-JavaScript      ████████████████░░░░
-React           ███████████████░░░░░
-Node.js         ███████████████░░░░░
-AWS             ████████████░░░░░░░░
-Data Science    ███████████████░░░░░
-Machine Learning████████████░░░░░░░░
-```
+- [ ] Build more practical, portfolio-ready projects.
+- [ ] Strengthen machine learning and AI fundamentals.
+- [ ] Improve data analysis and visualization skills.
+- [ ] Develop hands-on experience with AWS and cloud architecture.
+- [ ] Practice data structures and algorithms consistently.
+- [ ] Build and deploy full-stack applications.
+- [ ] Contribute to open-source projects.
+- [ ] Gain industry experience and grow as a developer.
 
 ---
 
-## 🎯 2026–27 Goals
-
-* 🚀 Build more production-ready projects
-* 🤖 Strengthen Machine Learning & AI skills
-* 📊 Become proficient in Data Science
-* ☁️ Improve AWS & Cloud Architecture knowledge
-* 🧩 Solve more Data Structures & Algorithms problems
-* 🌐 Build scalable full-stack applications
-* 💼 Gain industry experience
-* 🌱 Contribute to Open Source
-
----
-
-## 💼 Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
-I'm always open to **collaboration, interesting projects, internships and learning opportunities.**
+I'm open to connecting with developers, collaborating on interesting projects, and exploring learning and career opportunities.
 
 <br>
 
+<a href="https://github.com/vanshikashar">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="Follow on GitHub" />
+</a>
 <a href="https://www.linkedin.com/in/vanshika-sharma-b11658279/">
-<img src="https://img.shields.io/badge/LinkedIn-Vanshika%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn" />
 </a>
-
 <a href="mailto:vanshikapandit02911@gmail.com">
-<img src="https://img.shields.io/badge/Email-vanshikapandit02911%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 *"Code. Learn. Build. Repeat."* 🚀
-
-<br>
-
-<img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="120px">
 
 <br><br>
 
-⭐ **If you find my projects interesting, consider giving them a star!**
+### 💭 "Code. Learn. Build. Repeat."
+
+⭐ If you find my projects useful, consider giving them a star!
 
 </div>
-
----
 
 <!-- ======================= END ======================= -->
